@@ -16,9 +16,7 @@ Will release this series video tutorial on youtube later soon!
 ## Arduino
 https://www.arduino.cc/en/Guide/HomePage
 
-Download IDE from here
-
-https://www.arduino.cc/en/Main/Software
+Download IDE from here: https://www.arduino.cc/en/Main/Software
 
 ## Getting Started
 	
