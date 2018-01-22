@@ -16,6 +16,9 @@ Will release this series video tutorial on youtube later soon!
 ## Arduino
 https://www.arduino.cc/en/Guide/HomePage
 
+Download IDE 
+https://www.arduino.cc/en/Main/Software
+
 ## Getting Started
 	
 0, https://publiclab.org/notes/shanlter/06-08-2017/knowflow-automatic-water-meter
