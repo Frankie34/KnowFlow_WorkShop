@@ -17,7 +17,7 @@ Will release this series video tutorial on youtube later soon!
 
 ## Getting Started
 	
-0,https://publiclab.org/notes/shanlter/06-08-2017/knowflow-automatic-water-meter
+0, https://publiclab.org/notes/shanlter/06-08-2017/knowflow-automatic-water-meter
 
 1, unzip the zip file
 
