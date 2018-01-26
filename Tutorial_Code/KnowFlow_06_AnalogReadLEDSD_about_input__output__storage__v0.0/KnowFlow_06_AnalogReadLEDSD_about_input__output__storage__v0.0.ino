@@ -43,6 +43,13 @@ void loop() {
   // read three sensors and append to the string:
   for (int i = 0; i < 3; i++) {
     value = analogRead(0);            //
+    delay(100);
+    if(value > 20)
+  {
+    digitalWrite(13,HIGH);
+  }else{
+    digitalWrite(13,LOW);
+  }
     dataString += String(value);
     if (i < 2) {
       dataString += ",";
@@ -68,12 +75,4 @@ void loop() {
   //delay(1000); // write data once per second
   
 }
-
-
-
-
-
-
-
-
 
