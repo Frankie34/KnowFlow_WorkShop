@@ -1,7 +1,8 @@
 void setup()
 {
   Serial.begin(9600);     //  Set serial baud rate to 9600 bps
-  pinMode(A0,INPUT);      //  Set A0 to output
+  pinMode(A0,INPUT);      //  Set A0 to input
+  pinMode(13,OUTPUT);     //  Set pin 13 to output
 }
 void loop()
 {
