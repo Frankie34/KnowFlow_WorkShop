@@ -40,7 +40,6 @@ void loop() {
 
   static unsigned int value = 0;
   
-  // read three sensors and append to the string:
   for (int i = 0; i < 3; i++) {
     value = analogRead(0);            //
     delay(100);
