@@ -13,7 +13,9 @@ void loop()
   if(val>20)
   {
     digitalWrite(13,HIGH);
+    delay(100);
   }else{
     digitalWrite(13,LOW);
+    delay(100);
   }
 }
