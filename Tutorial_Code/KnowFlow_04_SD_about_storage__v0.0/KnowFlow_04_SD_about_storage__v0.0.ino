@@ -39,7 +39,6 @@ void loop() {
   static unsigned int value = 0;
   value = random(0,100);
   
-  // read three sensors and append to the string:
   for (int i = 0; i < 3; i++) {
     dataString += String(value);
     if (i < 2) {
