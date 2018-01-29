@@ -47,8 +47,10 @@ void loop() {
     if(value > 20)
   {
     digitalWrite(13,HIGH);
+     delay(100);
   }else{
     digitalWrite(13,LOW);
+     delay(100);
   }
     dataString += String(value);
     if (i < 2) {
