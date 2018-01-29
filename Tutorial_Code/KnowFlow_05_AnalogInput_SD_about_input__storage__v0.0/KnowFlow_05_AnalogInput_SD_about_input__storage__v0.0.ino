@@ -43,6 +43,7 @@ void loop() {
   // read three sensors and append to the string:
   for (int i = 0; i < 3; i++) {
     value = analogRead(0);            //
+    delay(100);
     dataString += String(value);
     if (i < 2) {
       dataString += ",";
